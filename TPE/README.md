@@ -1,3 +1,3 @@
 # Especificación Formal - TPE
 
-Este documento contiene la especificación formal para el proyecto "Análisis Habitacional Argentino". Fue desarrollado como parte de la materia "Algoritmos y Estructuras de Datos I" y utiliza el lenguaje formal visto en el curso y lógica de primer orden.
+Este documento contiene la especificación formal de los problemas a resolver para el proyecto "Análisis Habitacional Argentino". Utiliza el lenguaje formal visto en el curso y lógica de primer orden.
