@@ -15,11 +15,11 @@ están listas para ser ejecutadas y garantizan la funcionalidad de las implement
 - `CMakeLists.txt`: Archivo de configuración principal de CMake para el proyecto TPI. Este archivo define los requisitos,
 configuraciones, dependencias y archivos fuente para la compilación del proyecto. Incluye configuraciones para la integración
 y ejecución de pruebas usando GoogleTest.
-- Tests: esta carpeta contiene todos los tests de GoogleTests utilizados para verificar la correctitud de los problemas
+- `Tests/`: esta carpeta contiene todos los tests de GoogleTests utilizados para verificar la correctitud de los problemas
 resueltos.
-- Datos: aquí están volcados todos los archivos con los datos extraídos de www.indec.gob.ar/bases-de-datos.asp utilizados
+- `Datos/`: aquí están volcados todos los archivos con los datos extraídos de www.indec.gob.ar/bases-de-datos.asp utilizados
 para realizar este trabajo.
-- Lib: en esta carpeta se encuentran todos los archivos necesarios para poder correr los tests de GoogleTest en formato
+- `Lib/`: en esta carpeta se encuentran todos los archivos necesarios para poder correr los tests de GoogleTest en formato
 comprimido.
 
 
